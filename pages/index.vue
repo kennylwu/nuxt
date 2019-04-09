@@ -1,5 +1,9 @@
 <template>
-  <section class="container"></section>
+  <section class="container">
+    <article>
+      <h1>welcome</h1>
+    </article>
+  </section>
 </template>
 
 
